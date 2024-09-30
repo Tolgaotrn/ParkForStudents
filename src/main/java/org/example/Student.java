@@ -6,7 +6,7 @@ public class Student {
     private String name;
     private String surname;
     private double totalAmount;
-    private ParkTime cgurrentParkingTime;
+    private ParkTime currentParkingTime;
     public Student(String studentId, String name) {
         this.studentId = studentId;
         this.name = name;
